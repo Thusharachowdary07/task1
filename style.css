@@ -1,0 +1,206 @@
+a{
+    color: #fff;
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: none;
+    height: 100%;
+}
+#head{
+    padding: 0 60px 0 30px;
+}
+
+#head{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("banner_2.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 250%;
+}
+hr{
+    border : 1px dashed #fff;
+}
+#head1 #social, #contact{
+    list-style: none;
+    display: inline-flex;
+    font-size: 16px;
+}
+#social li{
+    margin: 8px;
+}
+#contact{
+    padding-left: 575px;
+}
+#contact li{
+    margin: 10px;
+}
+#contact li a i{
+    padding-left: 0px;
+}
+#head2 #logo, #menu{
+    list-style: none;
+    display: inline-flex;
+    font-size: 16px;
+}
+#head2{
+    background-image: url("logo.jpg");
+    background-repeat: no-repeat;
+    position: relative;
+    margin-left: 40px;
+    padding-left: 10px;
+}
+#menu{
+    float: right;
+}
+#menu li{
+    margin-right: 20px;
+}
+.banner-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+.banner-text p{
+    font-family:Mistral; 
+    font-size: 44px;
+    font-weight: lighter;
+    margin: 100px 0 0 0;
+}
+.banner-text h1{
+    margin: 0 0 0 0;
+}
+.banner-text button{
+    width: 150px;
+    color: green;
+    height: 30px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    margin-top: 100px;
+}
+
+.tbody{
+    color: white;
+    font-size: 20px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+
+
+.borderforimage
+{
+    border-style: hidden;
+}
+
+p.border{
+    color:green
+
+}
+.heading{
+    color:green
+}
+hr.green{
+    border-top: 1px solid green;
+}
+
+.button {
+    
+        background-color: white;
+        border: green;
+        border-style:solid ;
+       border-color:  green;
+        padding: 10px 24px;
+        text-align: center;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+      hr.grey{
+        border-top: 1px solid grey;
+    }
+    .button1 {
+    
+        background-color: green;
+        border: green;
+        border-style:solid ;
+       border-color:  green;
+        padding: 10px 24px;
+        text-align: center;
+        color: white;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background: #111;
+    bottom: 0px;
+    position: relative;
+    width: 100%;
+}
+
+h2{
+    color: lightgreen;
+}
+
+.main-content{
+    display: flex;
+}
+
+.main-content .box{
+    flex-basis: 50%;
+    padding: 10px 20px;
+    color: white;
+}
+
+
+.btn1{
+    background-color: green;
+        border: green;
+        border-style:solid ;
+       border-color:  green;
+        padding: 10px 24px;
+        text-align: center;
+        color: white;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+}
+
+.top-body{
+    height: 100px;
+    background-color: lightgreen;
+}
+
+.fbottom{
+    background-color: white;
+    height: 50px;
+    padding: 20;
+}
+
+.cpr{
+    color: lightgreen;
+}
